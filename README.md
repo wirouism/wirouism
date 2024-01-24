@@ -8,6 +8,8 @@ I go by wirou online
 
 ## About Me: 
 I am an Irish 19 y/o and my hobbies are web dev and studying languages.
+
 more about me is featured on my website, so please take a look if you are interested.
+
 [![wakatime](https://wakatime.com/badge/user/951572d0-c6ca-4620-bdcd-191d3ecc8392.svg)](https://wakatime.com/@951572d0-c6ca-4620-bdcd-191d3ecc8392)
 
